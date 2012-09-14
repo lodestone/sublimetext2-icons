@@ -21,6 +21,6 @@ Win / nix:
 
 ###Icons:###
 
-V1
+V2
 
-<img src="https://github.com/tw12lve/sublimetext2-icons/raw/master/pngs/v1.png">
+<img src="https://github.com/lodestone/sublimetext2-icons/raw/master/pngs/512.png">
